@@ -26,13 +26,16 @@ Test accuracy: 99.4%
 
 
 Applications:
+
 Face mask detector can be used at various public places to ensure that people are practicing proper guidelines.
 Some of the public places include:
+
 a. Public Transportation like Railways, Metros, buses etc.
 b. Schools/educational institutions
 c. Corporate Offices
 
 Scope for Improvement:
+
 a. Computation power can be reduced so as to make it more efficient with embedded devices with low computation power
 b. Dataset is artificially created and has masks only of a particular type, more real/artifical data can be added with different masks      style and types(N-95 masks or colored masks etc.)
 c. In this dataset, samples of images with mask and without mask is of sample, this creates a identity bias which will definitely cause    a problem in real world application, more data of people with no mask should be added to remove that bias.
