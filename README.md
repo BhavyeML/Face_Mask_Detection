@@ -14,15 +14,15 @@ Method adapted:
 4. Used the trained model to predict face mask detection usiing your Webcam.
 
 Experimental Procedure:
-  * Utils scripts data_segment.py is imported in train_mask
-  * Baseline Model script baseline_cnn.py is imported in train_mask
-  * Inception Model script inception_cnn is imported in train_mask
-  * Run train_mask.ipynb
+  * Utils scripts data_segment.py is imported in main_mask
+  * Baseline Model script baseline_mask.py is imported in main_mask
+  * Inception Model script inception_cnn is imported in main_mask
+  * Run main_mask.ipynb
 
 
 Accuracy:
 Train accuracy: 99.6%
-Test accuracy: 99.4%
+Test accuracy: 98.4%
 
 
 Applications:
